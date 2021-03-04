@@ -103,6 +103,6 @@ app.get('*', renderApp);
 
 app.listen(PORT, (err) => {
   if (err) console.log(err);
-  else console.log(`Server is running in port ${PORT}`);
+  else console.log(`Serverr is running in port ${PORT}`);
 });
 
